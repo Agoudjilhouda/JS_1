@@ -1,3 +1,4 @@
+//convertminute
 function minuteConvert(a){
     return a*60
   }
